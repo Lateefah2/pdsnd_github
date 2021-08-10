@@ -4,8 +4,7 @@
 10/8/2021
 
 ### Project Title
-Replace the Project Title
-
+Post your project on Github
 ### Description
 Describe what your project is about and what it does
 
