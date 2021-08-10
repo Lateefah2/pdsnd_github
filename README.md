@@ -6,10 +6,6 @@
 ### Project Title
 Post your project on Github
 ### Description
-Describe what your project is about and what it does
-
+In this project, you'll be simulating a realistic workflow to refactor your previous BikeShare project using Git.
 ### Files used
-Include the files used
-
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
