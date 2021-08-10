@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+#city dictionary and their csv file
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -53,7 +54,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+#    Loads data for the specified city and filters by month and day if applicable.
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
